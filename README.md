@@ -1,3 +1,7 @@
+:warning: THIS REPO IS NO LONGER MAINTAINED
+
+Please use https://github.com/gmarmstrong/python-datamuse/ instead, available on PyPI at https://pypi.python.org/pypi/python-datamuse
+
 # python-datamuse
 
 Basic Python (2) wrapper and scripts for the Datamuse API. I'm not associated with Datamuse or OneLook, but I thought the API looked interesting and spun this up to make querying it a bit easier.
